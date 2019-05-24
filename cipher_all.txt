@@ -1,0 +1,27 @@
+e126,25,Byte
+e126,25,ByteByte
+e126,25,ByteByteB
+e126,25,gggggggggggggggggggggggggggggggg
+e8,5,gggggggggggggggggggggggggggggggg
+e256,123,It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. --Charles Darwin
+d126,25,Zw+Z"iE^L
+e38875,1234,Leonhard Euler (1707 - 1783)
+d38875,1234,:g/.+QO812dGab+UAI+Lw+Lu+A+Jf+XCoHY
+e4611686018427387904,961168601842738797,Hello World!!!
+d4611686018427387904,961168601842738797,+^]!)X7_tl+IU* `+@+H
+e8611463117063,516687,If there's a problem you can't solve, then there is a simpler problem that you can solve. Find it!
+d8611463117063,516687,jh+AS+E9me+\+N+_(hs+A+_+]\M.+]\]M`S/D+\JN3++~<[ "O&S+Bvx+X+^+[uU+R@ran+T+VNWT3+K)k+H~KjC$Hy+]+WY+\+J+Y9E~}+Q<+QmWo,"eP3)Hj.E+B +H
+126,25,Error
+e,126,25,Error
+e123456789012345678901,25,Error
+e126,25Error
+e00126,025,This is ok.
+e0,25,Error - lcg_m must be greater than 0.
+e126,0,Error lcg_c must be a positive integer.
+e4,3,Error - with lcg_m=4, lcg_a = 5, but 5 is > 4
+e7044463721,12345,Error - lcg_m is the product of 3 primes, so lcg_a>lcg_m
+e7044463720,12345,This one is okay.
+d126,25,Zw+Z"iE^LError - this decrypts to non-printing ascii characters.
+e736880036,1,Can you encrypt a few plus signs? ++++
+e32768,1,This lcg_m is a power of 2.
+d736880036,1,+G+T+UM+K~uX0'+_.+LL+T~+[2P#+Z|Ht+Frq?+U{7sh"7v`b+ZV
